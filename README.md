@@ -15,5 +15,17 @@ The features of the Hospital Management Software which will help you in reducing
 
 	DOCTOR: By large every Hospital Management system revolves around the Doctors to provide better service to patients. A Doctor can login with his secrete ID and Password, and can see his appointments and can update data of a patient.
 
+## Screenshots
+[Screenshots of the program](https://github.com/Aman-Singh-hub/Hospital-Management-Software-Python/blob/main/Screen%20Shots.pdf)
+
 ## Modules
 [Modules used in the program](https://github.com/Aman-Singh-hub/Hospital-Management-Software-Python/blob/main/Modules.pdf)
+
+## Classes
+[Classes used in the program](https://github.com/Aman-Singh-hub/Hospital-Management-Software-Python/blob/main/CLASSES.pdf)
+
+## User Defined Functions
+[User defined functions used in the program](https://github.com/Aman-Singh-hub/Hospital-Management-Software-Python/blob/main/user%20defined%20functions.pdf)
+
+## Data Files
+[Data files created and used in the program](https://github.com/Aman-Singh-hub/Hospital-Management-Software-Python/blob/main/DATA%20FILES.pdf)

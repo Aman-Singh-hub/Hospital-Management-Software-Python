@@ -15,6 +15,5 @@ The features of the Hospital Management Software which will help you in reducing
 
 	DOCTOR: By large every Hospital Management system revolves around the Doctors to provide better service to patients. A Doctor can login with his secrete ID and Password, and can see his appointments and can update data of a patient.
 
-##Modules
-[Modules used in the program]
-[Lets go to Quora](https://www.quora.com)
+## Modules
+[Modules used in the program](./Modules)
